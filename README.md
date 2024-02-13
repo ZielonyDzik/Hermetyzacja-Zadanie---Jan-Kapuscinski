@@ -2,7 +2,7 @@
 Hermetyzacja Zadanie - Jan Kapuściński
 
 
-Metody:
+Metody: 
 
 nazwa funkcji: getClientInfo
   parametry wejściowe: -
